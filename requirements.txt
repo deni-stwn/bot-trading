@@ -1,0 +1,12 @@
+MetaTrader5
+pandas
+pandas-ta
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+python-dotenv
+schedule

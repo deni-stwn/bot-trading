@@ -1,0 +1,28 @@
+{
+  "filepath": "c:\\Users\\ACER\\Desktop\\Bangden\\trading-bot\\config.json",
+  "account": {
+    "login": 00000000,
+    "password": "pass",
+    "server": "Exness-MT5Trial14"
+  },
+  "trading": {
+    "symbol": "BTCUSDm",
+    "max_positions": 3,
+    "risk_percentage": 1.0,
+    "lot_size": 0.01,
+    "timeframe": 5
+  },
+  "strategy": {
+    "min_confluences": 3,
+    "rsi_oversold": 30,
+    "rsi_overbought": 70,
+    "atr_multiplier": 2.0,
+    "min_time_between_signals": 300
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "trading_log.txt",
+    "max_size": "10MB",
+    "backup_count": 5
+  }
+}

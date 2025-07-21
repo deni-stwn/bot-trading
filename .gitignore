@@ -1,0 +1,11 @@
+venv/
+.venv/
+/venv/
+# Ignore Python virtual environment directories
+.venv/
+# Ignore virtual environment directory
+__pycache__/
+# Ignore Python bytecode cache
+*.pyc
+# Ignore Python bytecode files
+*.pyo

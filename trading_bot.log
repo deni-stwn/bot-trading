@@ -1,0 +1,304 @@
+2025-05-28 12:08:18,903 - __main__ - INFO - ==================================================
+2025-05-28 12:08:18,905 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 12:08:18,909 - __main__ - INFO - ==================================================
+2025-05-28 12:08:18,931 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 12:08:18,944 - __main__ - ERROR - Unexpected error: name 'mt5' is not defined
+2025-05-28 12:08:18,958 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 21:20:16,140 - __main__ - INFO - ==================================================
+2025-05-28 21:20:16,140 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 21:20:16,140 - __main__ - INFO - ==================================================
+2025-05-28 21:20:16,140 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 21:20:16,140 - __main__ - ERROR - Unexpected error: name 'mt5' is not defined
+2025-05-28 21:20:16,141 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 21:21:06,359 - __main__ - INFO - ==================================================
+2025-05-28 21:21:06,359 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 21:21:06,359 - __main__ - INFO - ==================================================
+2025-05-28 21:21:06,359 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 21:21:06,359 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-28 21:21:06,368 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-28 21:21:06,368 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-28 21:21:06,368 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-28 21:21:06,368 - mt5_integration.connection - INFO - Balance: 50.0 USD
+2025-05-28 21:21:06,368 - bot.trading_bot - INFO - Bot connected. Starting balance: 50.0
+2025-05-28 21:21:06,368 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-28 21:21:06,370 - __main__ - INFO - Starting automated trading...
+2025-05-28 21:21:06,370 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-28 21:22:06,611 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:22:06,627 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:23:07,034 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:23:07,036 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:24:07,576 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:24:07,587 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:25:07,800 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:25:07,802 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:26:08,028 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:26:08,029 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:27:08,105 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:27:08,105 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:28:08,220 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:28:08,224 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:29:08,432 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:29:08,441 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:30:08,639 - data.market_data - ERROR - Missing required column: tick_volume
+2025-05-28 21:30:08,686 - bot.trading_bot - WARNING - Insufficient market data
+2025-05-28 21:30:17,831 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-28 21:30:17,831 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-28 21:30:17,831 - bot.trading_bot - INFO - Bot disconnected
+2025-05-28 21:30:17,831 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 21:31:05,653 - __main__ - INFO - ==================================================
+2025-05-28 21:31:05,653 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 21:31:05,653 - __main__ - INFO - ==================================================
+2025-05-28 21:31:05,654 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 21:31:05,654 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-28 21:31:05,666 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-28 21:31:05,667 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-28 21:31:05,667 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-28 21:31:05,667 - mt5_integration.connection - INFO - Balance: 50.0 USD
+2025-05-28 21:31:05,668 - bot.trading_bot - INFO - Bot connected. Starting balance: 50.0
+2025-05-28 21:31:05,668 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-28 21:31:05,668 - __main__ - INFO - Starting automated trading...
+2025-05-28 21:31:05,668 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-28 21:32:05,732 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:30:00
+2025-05-28 21:32:05,732 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:33:05,769 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:30:00
+2025-05-28 21:33:05,769 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:34:05,862 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:30:00
+2025-05-28 21:34:05,862 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:35:05,924 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:35:00
+2025-05-28 21:35:05,925 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:35:31,654 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-28 21:35:31,661 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-28 21:35:31,661 - bot.trading_bot - INFO - Bot disconnected
+2025-05-28 21:35:31,661 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 21:35:33,641 - __main__ - INFO - ==================================================
+2025-05-28 21:35:33,641 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 21:35:33,642 - __main__ - INFO - ==================================================
+2025-05-28 21:35:33,642 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 21:35:33,643 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-28 21:35:33,655 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-28 21:35:33,655 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-28 21:35:33,656 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-28 21:35:33,657 - mt5_integration.connection - INFO - Balance: 50.0 USD
+2025-05-28 21:35:33,657 - bot.trading_bot - INFO - Bot connected. Starting balance: 50.0
+2025-05-28 21:35:33,658 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-28 21:35:33,658 - __main__ - INFO - Starting automated trading...
+2025-05-28 21:35:33,658 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-28 21:36:33,698 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:35:00
+2025-05-28 21:36:33,698 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:37:33,731 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:35:00
+2025-05-28 21:37:33,733 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:38:02,656 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-28 21:38:02,656 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-28 21:38:02,658 - bot.trading_bot - INFO - Bot disconnected
+2025-05-28 21:38:02,658 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 21:38:04,437 - __main__ - INFO - ==================================================
+2025-05-28 21:38:04,438 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 21:38:04,438 - __main__ - INFO - ==================================================
+2025-05-28 21:38:04,438 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 21:38:04,440 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-28 21:38:04,449 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-28 21:38:04,449 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-28 21:38:04,449 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-28 21:38:04,449 - mt5_integration.connection - INFO - Balance: 50.0 USD
+2025-05-28 21:38:04,450 - bot.trading_bot - INFO - Bot connected. Starting balance: 50.0
+2025-05-28 21:38:04,450 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-28 21:38:04,450 - __main__ - INFO - Starting automated trading...
+2025-05-28 21:38:04,450 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-28 21:39:04,484 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:35:00
+2025-05-28 21:39:04,484 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:40:04,527 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:40:00
+2025-05-28 21:40:04,527 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:41:04,558 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:40:00
+2025-05-28 21:41:04,558 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:42:04,611 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:40:00
+2025-05-28 21:42:04,611 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.40
+2025-05-28 21:43:04,657 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:40:00
+2025-05-28 21:43:04,657 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:44:04,708 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:40:00
+2025-05-28 21:44:04,708 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:45:04,756 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:45:00
+2025-05-28 21:45:04,756 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.40
+2025-05-28 21:46:04,794 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:45:00
+2025-05-28 21:46:04,794 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:47:04,845 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:45:00
+2025-05-28 21:47:04,845 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:48:04,875 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:45:00
+2025-05-28 21:48:04,875 - bot.trading_bot - INFO - Executing BUY signal
+2025-05-28 21:48:04,875 - bot.trading_bot - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107463.27)
+2025-05-28 21:48:05,103 - mt5_integration.orders - INFO - Order placed successfully: BUY 0.01 BTCUSDm at 107658.34
+2025-05-28 21:48:05,105 - bot.trading_bot - INFO - Order placed successfully: 898357323
+2025-05-28 21:48:05,105 - bot.strategy - INFO - Executing BUY trade:
+2025-05-28 21:48:05,105 - bot.strategy - INFO - Entry: 107629.45000
+2025-05-28 21:48:05,105 - bot.strategy - INFO - SL: 107070.54143
+2025-05-28 21:48:05,105 - bot.strategy - INFO - TP: 108467.81286
+2025-05-28 21:48:05,106 - bot.strategy - INFO - Size: 0.010
+2025-05-28 21:48:05,106 - bot.strategy - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107463.27)
+2025-05-28 21:48:05,106 - bot.trading_bot - INFO - Trade executed: 1
+2025-05-28 21:49:05,142 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:45:00
+2025-05-28 21:49:05,142 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:50:05,169 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:50:00
+2025-05-28 21:50:05,169 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:51:05,217 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:50:00
+2025-05-28 21:51:05,217 - bot.trading_bot - INFO - Executing BUY signal
+2025-05-28 21:51:05,218 - bot.trading_bot - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107463.27)
+2025-05-28 21:51:05,409 - mt5_integration.orders - INFO - Order placed successfully: BUY 0.01 BTCUSDm at 107630.3
+2025-05-28 21:51:05,409 - bot.trading_bot - INFO - Order placed successfully: 898380049
+2025-05-28 21:51:05,409 - bot.strategy - INFO - Executing BUY trade:
+2025-05-28 21:51:05,409 - bot.strategy - INFO - Entry: 107601.50000
+2025-05-28 21:51:05,409 - bot.strategy - INFO - SL: 107074.09286
+2025-05-28 21:51:05,409 - bot.strategy - INFO - TP: 108392.61071
+2025-05-28 21:51:05,409 - bot.strategy - INFO - Size: 0.010
+2025-05-28 21:51:05,420 - bot.strategy - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107463.27)
+2025-05-28 21:51:05,420 - bot.trading_bot - INFO - Trade executed: 2
+2025-05-28 21:52:05,460 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:50:00
+2025-05-28 21:52:05,460 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:53:05,524 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:50:00
+2025-05-28 21:53:05,524 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:54:05,582 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:50:00
+2025-05-28 21:54:05,582 - bot.trading_bot - INFO - Executing BUY signal
+2025-05-28 21:54:05,582 - bot.trading_bot - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107463.27)
+2025-05-28 21:54:05,782 - mt5_integration.orders - INFO - Order placed successfully: BUY 0.01 BTCUSDm at 107668.35
+2025-05-28 21:54:05,782 - bot.trading_bot - INFO - Order placed successfully: 898399008
+2025-05-28 21:54:05,786 - bot.strategy - INFO - Executing BUY trade:
+2025-05-28 21:54:05,786 - bot.strategy - INFO - Entry: 107637.34000
+2025-05-28 21:54:05,787 - bot.strategy - INFO - SL: 107109.93286
+2025-05-28 21:54:05,787 - bot.strategy - INFO - TP: 108428.45071
+2025-05-28 21:54:05,787 - bot.strategy - INFO - Size: 0.010
+2025-05-28 21:54:05,787 - bot.strategy - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107463.27)
+2025-05-28 21:54:05,787 - bot.trading_bot - INFO - Trade executed: 3
+2025-05-28 21:55:05,824 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:55:00
+2025-05-28 21:55:05,824 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:56:05,859 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:55:00
+2025-05-28 21:56:05,859 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:57:05,905 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:55:00
+2025-05-28 21:57:05,905 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.40
+2025-05-28 21:58:05,947 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:55:00
+2025-05-28 21:58:05,947 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 21:59:05,991 - bot.strategy - INFO - Market analysis completed at 2025-05-28 14:55:00
+2025-05-28 21:59:05,991 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:00:06,039 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:00:00
+2025-05-28 22:00:06,039 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:01:06,077 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:00:00
+2025-05-28 22:01:06,077 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.40
+2025-05-28 22:02:06,154 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:00:00
+2025-05-28 22:02:06,167 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:03:06,674 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:00:00
+2025-05-28 22:03:06,679 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:04:07,310 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:00:00
+2025-05-28 22:04:07,326 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:05:07,464 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:05:00
+2025-05-28 22:05:07,468 - bot.trading_bot - INFO - Executing BUY signal
+2025-05-28 22:05:07,470 - bot.trading_bot - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107420.94)
+2025-05-28 22:05:07,713 - mt5_integration.orders - INFO - Order placed successfully: BUY 0.01 BTCUSDm at 107568.71
+2025-05-28 22:05:07,716 - bot.trading_bot - INFO - Order placed successfully: 898503676
+2025-05-28 22:05:07,718 - bot.strategy - INFO - Executing BUY trade:
+2025-05-28 22:05:07,718 - bot.strategy - INFO - Entry: 107539.42000
+2025-05-28 22:05:07,720 - bot.strategy - INFO - SL: 107084.19714
+2025-05-28 22:05:07,720 - bot.strategy - INFO - TP: 108222.25429
+2025-05-28 22:05:07,725 - bot.strategy - INFO - Size: 0.010
+2025-05-28 22:05:07,725 - bot.strategy - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107420.94)
+2025-05-28 22:05:07,726 - bot.trading_bot - INFO - Trade executed: 4
+2025-05-28 22:06:07,780 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:05:00
+2025-05-28 22:06:07,780 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:07:07,820 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:05:00
+2025-05-28 22:07:07,820 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:08:07,887 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:05:00
+2025-05-28 22:08:07,891 - bot.trading_bot - INFO - Executing BUY signal
+2025-05-28 22:08:07,896 - bot.trading_bot - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107420.94)
+2025-05-28 22:08:08,133 - mt5_integration.orders - INFO - Order placed successfully: BUY 0.01 BTCUSDm at 107537.92
+2025-05-28 22:08:08,134 - bot.trading_bot - INFO - Order placed successfully: 898528153
+2025-05-28 22:08:08,135 - bot.strategy - INFO - Executing BUY trade:
+2025-05-28 22:08:08,136 - bot.strategy - INFO - Entry: 107508.90000
+2025-05-28 22:08:08,136 - bot.strategy - INFO - SL: 107041.85286
+2025-05-28 22:08:08,136 - bot.strategy - INFO - TP: 108209.47071
+2025-05-28 22:08:08,137 - bot.strategy - INFO - Size: 0.010
+2025-05-28 22:08:08,137 - bot.strategy - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107420.94)
+2025-05-28 22:08:08,137 - bot.trading_bot - INFO - Trade executed: 5
+2025-05-28 22:09:08,203 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:05:00
+2025-05-28 22:09:08,203 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:10:08,235 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:10:00
+2025-05-28 22:10:08,235 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:11:08,314 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:10:00
+2025-05-28 22:11:08,314 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:11:13,067 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-28 22:11:13,068 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-28 22:11:13,069 - bot.trading_bot - INFO - Bot disconnected
+2025-05-28 22:11:13,069 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 22:11:14,840 - __main__ - INFO - ==================================================
+2025-05-28 22:11:14,840 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 22:11:14,840 - __main__ - INFO - ==================================================
+2025-05-28 22:11:14,840 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 22:11:14,840 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-28 22:11:14,851 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-28 22:11:14,853 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-28 22:11:14,854 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-28 22:11:14,854 - mt5_integration.connection - INFO - Balance: 50.0 USD
+2025-05-28 22:11:14,855 - bot.trading_bot - INFO - Bot connected. Starting balance: 50.0
+2025-05-28 22:11:14,855 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-28 22:11:14,855 - __main__ - INFO - Starting automated trading...
+2025-05-28 22:11:14,857 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-28 22:12:11,124 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-28 22:12:11,126 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-28 22:12:11,128 - bot.trading_bot - INFO - Bot disconnected
+2025-05-28 22:12:11,129 - __main__ - INFO - Trading bot shutdown complete
+2025-05-28 22:12:13,508 - __main__ - INFO - ==================================================
+2025-05-28 22:12:13,508 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-28 22:12:13,508 - __main__ - INFO - ==================================================
+2025-05-28 22:12:13,508 - __main__ - INFO - Strategy initialized successfully
+2025-05-28 22:12:13,508 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-28 22:12:13,516 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-28 22:12:13,517 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-28 22:12:13,517 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-28 22:12:13,517 - mt5_integration.connection - INFO - Balance: 50.0 USD
+2025-05-28 22:12:13,517 - bot.trading_bot - INFO - Bot connected. Starting balance: 50.0
+2025-05-28 22:12:13,518 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-28 22:12:13,518 - __main__ - INFO - Starting automated trading...
+2025-05-28 22:12:13,518 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-28 22:13:13,581 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:10:00
+2025-05-28 22:13:13,581 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:14:13,623 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:10:00
+2025-05-28 22:14:13,623 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:15:13,664 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:15:00
+2025-05-28 22:15:13,664 - bot.trading_bot - INFO - Executing BUY signal
+2025-05-28 22:15:13,664 - bot.trading_bot - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107113.46)
+2025-05-28 22:15:13,980 - mt5_integration.orders - INFO - Order placed successfully: BUY 0.01 BTCUSDm at 107189.53
+2025-05-28 22:15:13,980 - bot.trading_bot - INFO - Order placed successfully: 898586747
+2025-05-28 22:15:13,980 - bot.strategy - INFO - Executing BUY trade:
+2025-05-28 22:15:13,980 - bot.strategy - INFO - Entry: 107159.93000
+2025-05-28 22:15:13,980 - bot.strategy - INFO - SL: 106697.44143
+2025-05-28 22:15:13,980 - bot.strategy - INFO - TP: 107853.66286
+2025-05-28 22:15:13,980 - bot.strategy - INFO - Size: 0.010
+2025-05-28 22:15:13,980 - bot.strategy - INFO - Confluences: RSI oversold bounce, Stochastic oversold recovery, Price above support (107113.46)
+2025-05-28 22:15:13,980 - bot.trading_bot - INFO - Trade executed: 1
+2025-05-28 22:16:14,038 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:15:00
+2025-05-28 22:16:14,038 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:17:14,074 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:15:00
+2025-05-28 22:17:14,074 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:18:14,112 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:15:00
+2025-05-28 22:18:14,112 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:19:14,151 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:15:00
+2025-05-28 22:19:14,151 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:20:14,189 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:20:00
+2025-05-28 22:20:14,189 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:21:14,229 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:20:00
+2025-05-28 22:21:14,229 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:22:14,265 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:20:00
+2025-05-28 22:22:14,265 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:23:14,302 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:20:00
+2025-05-28 22:23:14,302 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:24:14,374 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:20:00
+2025-05-28 22:24:14,375 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:25:14,723 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:25:00
+2025-05-28 22:25:14,725 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:26:14,951 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:25:00
+2025-05-28 22:26:14,951 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:27:15,056 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:25:00
+2025-05-28 22:27:15,056 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:28:15,134 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:25:00
+2025-05-28 22:28:15,134 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:29:15,242 - bot.strategy - INFO - Market analysis completed at 2025-05-28 15:25:00
+2025-05-28 22:29:15,244 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-28 22:29:55,642 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-28 22:29:55,642 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-28 22:29:55,644 - bot.trading_bot - INFO - Bot disconnected
+2025-05-28 22:29:55,644 - __main__ - INFO - Trading bot shutdown complete

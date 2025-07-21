@@ -1,0 +1,76 @@
+2025-05-29 00:25:18,622 - __main__ - INFO - ==================================================
+2025-05-29 00:25:18,629 - __main__ - INFO - STARTING ADVANCED BTC/USD TRADING BOT
+2025-05-29 00:25:18,676 - __main__ - INFO - ==================================================
+2025-05-29 00:25:27,073 - ml.predictor - INFO - Improved model loaded from models/trained_models/improved_model.pkl
+2025-05-29 00:25:27,096 - __main__ - INFO - Strategy initialized successfully
+2025-05-29 00:25:27,221 - ml.predictor - INFO - Improved model loaded from models/trained_models/improved_model.pkl
+2025-05-29 00:25:27,240 - mt5_integration.connection - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 00:25:27,302 - mt5_integration.connection - INFO - Successfully connected to MT5
+2025-05-29 00:25:27,324 - mt5_integration.connection - INFO - Account: 271233098
+2025-05-29 00:25:27,345 - mt5_integration.connection - INFO - Server: Exness-MT5Trial14
+2025-05-29 00:25:27,358 - mt5_integration.connection - INFO - Balance: 23.18 USD
+2025-05-29 00:25:27,376 - bot.trading_bot - INFO - Bot connected. Starting balance: 23.18
+2025-05-29 00:25:27,378 - __main__ - INFO - Connected to MetaTrader5 successfully
+2025-05-29 00:25:27,405 - __main__ - INFO - Starting automated trading...
+2025-05-29 00:25:27,456 - bot.trading_bot - INFO - Starting automated trading...
+2025-05-29 00:26:27,649 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:25:00
+2025-05-29 00:26:27,659 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:26:27,700 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:27:27,912 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:25:00
+2025-05-29 00:27:27,945 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:27:27,953 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:28:28,131 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:25:00
+2025-05-29 00:28:28,209 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:28:28,362 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:29:29,098 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:25:00
+2025-05-29 00:29:29,157 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:29:29,157 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:30:29,926 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:30:00
+2025-05-29 00:30:29,960 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:30:30,007 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:31:30,371 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:30:00
+2025-05-29 00:31:30,373 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:31:30,403 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:32:30,573 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:30:00
+2025-05-29 00:32:30,587 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:32:30,603 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:33:30,802 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:30:00
+2025-05-29 00:33:30,814 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:33:30,814 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:34:30,850 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:30:00
+2025-05-29 00:34:30,885 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:34:30,952 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:35:31,265 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:35:00
+2025-05-29 00:35:31,275 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:35:31,308 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:36:31,493 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:35:00
+2025-05-29 00:36:31,514 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:36:31,534 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:37:32,107 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:35:00
+2025-05-29 00:37:32,142 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:37:32,143 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:38:32,302 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:35:00
+2025-05-29 00:38:32,338 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:38:32,394 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:39:32,731 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:35:00
+2025-05-29 00:39:32,788 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:39:32,801 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:40:33,126 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:40:00
+2025-05-29 00:40:33,149 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:40:33,199 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:41:33,702 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:40:00
+2025-05-29 00:41:33,725 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:41:33,747 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:42:33,813 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:40:00
+2025-05-29 00:42:33,873 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:42:33,941 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:43:34,202 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:40:00
+2025-05-29 00:43:34,234 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:43:34,270 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:44:34,969 - bot.strategy - INFO - Market analysis completed at 2025-05-28 17:40:00
+2025-05-29 00:44:35,017 - bot.strategy - ERROR - Error in decision making: 'Strategy' object has no attribute '_traditional_analysis'
+2025-05-29 00:44:35,055 - bot.trading_bot - INFO - Trade blocked by risk management: Signal strength too low: 0.00
+2025-05-29 00:44:59,554 - bot.trading_bot - INFO - Trading stopped by user
+2025-05-29 00:44:59,641 - mt5_integration.connection - INFO - Disconnected from MT5
+2025-05-29 00:44:59,722 - bot.trading_bot - INFO - Bot disconnected
+2025-05-29 00:44:59,758 - __main__ - INFO - Trading bot shutdown complete

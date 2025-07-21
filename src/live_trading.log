@@ -1,0 +1,85 @@
+2025-05-29 00:48:54,356 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 00:48:54,420 - INFO - Successfully connected to MT5
+2025-05-29 00:48:54,420 - INFO - Account: 271233098
+2025-05-29 00:48:54,420 - INFO - Server: Exness-MT5Trial14
+2025-05-29 00:48:54,422 - INFO - Balance: 23.18 USD
+2025-05-29 00:55:23,814 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 00:55:23,875 - INFO - Successfully connected to MT5
+2025-05-29 00:55:23,875 - INFO - Account: 271233098
+2025-05-29 00:55:23,875 - INFO - Server: Exness-MT5Trial14
+2025-05-29 00:55:23,875 - INFO - Balance: 123.18 USD
+2025-05-29 01:14:22,606 - INFO - Disconnected from MT5
+2025-05-29 01:14:52,054 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 01:14:52,069 - INFO - Successfully connected to MT5
+2025-05-29 01:14:52,069 - INFO - Account: 271233098
+2025-05-29 01:14:52,069 - INFO - Server: Exness-MT5Trial14
+2025-05-29 01:14:52,071 - INFO - Balance: 129.23 USD
+2025-05-29 01:16:53,012 - INFO - Disconnected from MT5
+2025-05-29 01:17:12,496 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 01:17:12,506 - INFO - Successfully connected to MT5
+2025-05-29 01:17:12,506 - INFO - Account: 271233098
+2025-05-29 01:17:12,506 - INFO - Server: Exness-MT5Trial14
+2025-05-29 01:17:12,506 - INFO - Balance: 129.23 USD
+2025-05-29 01:26:13,698 - INFO - Disconnected from MT5
+2025-05-29 01:26:44,439 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-29 01:26:44,443 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 01:26:44,452 - INFO - Successfully connected to MT5
+2025-05-29 01:26:44,452 - INFO - Account: 271233098
+2025-05-29 01:26:44,452 - INFO - Server: Exness-MT5Trial14
+2025-05-29 01:26:44,452 - INFO - Balance: 129.23 USD
+2025-05-29 09:57:17,853 - INFO - Disconnected from MT5
+2025-05-29 18:44:14,107 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-29 18:44:14,131 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 18:44:22,150 - INFO - Successfully connected to MT5
+2025-05-29 18:44:22,170 - INFO - Account: 271233098
+2025-05-29 18:44:22,184 - INFO - Server: Exness-MT5Trial14
+2025-05-29 18:44:22,204 - INFO - Balance: 129.23 USD
+2025-05-29 18:57:28,996 - INFO - Disconnected from MT5
+2025-05-29 18:58:14,598 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-29 18:58:14,610 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 18:58:14,700 - INFO - Successfully connected to MT5
+2025-05-29 18:58:14,700 - INFO - Account: 271233098
+2025-05-29 18:58:14,700 - INFO - Server: Exness-MT5Trial14
+2025-05-29 18:58:14,700 - INFO - Balance: 129.23 USD
+2025-05-29 18:59:50,746 - INFO - Disconnected from MT5
+2025-05-29 19:02:05,544 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-29 19:02:05,547 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 19:02:05,559 - INFO - Successfully connected to MT5
+2025-05-29 19:02:05,561 - INFO - Account: 271233098
+2025-05-29 19:02:05,562 - INFO - Server: Exness-MT5Trial14
+2025-05-29 19:02:05,563 - INFO - Balance: 129.23 USD
+2025-05-29 19:20:39,670 - INFO - Disconnected from MT5
+2025-05-29 19:20:59,973 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-29 19:20:59,979 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-29 19:21:00,016 - INFO - Successfully connected to MT5
+2025-05-29 19:21:00,023 - INFO - Account: 271233098
+2025-05-29 19:21:00,034 - INFO - Server: Exness-MT5Trial14
+2025-05-29 19:21:00,036 - INFO - Balance: 129.23 USD
+2025-05-30 00:04:32,307 - INFO - Disconnected from MT5
+2025-05-30 00:08:31,765 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-30 00:08:31,768 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-30 00:08:31,782 - INFO - Successfully connected to MT5
+2025-05-30 00:08:31,782 - INFO - Account: 271233098
+2025-05-30 00:08:31,782 - INFO - Server: Exness-MT5Trial14
+2025-05-30 00:08:31,784 - INFO - Balance: 129.23 USD
+2025-05-30 02:11:55,799 - INFO - Disconnected from MT5
+2025-05-30 02:12:13,998 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-30 02:12:14,000 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-30 02:12:14,009 - INFO - Successfully connected to MT5
+2025-05-30 02:12:14,009 - INFO - Account: 271233098
+2025-05-30 02:12:14,010 - INFO - Server: Exness-MT5Trial14
+2025-05-30 02:12:14,010 - INFO - Balance: 129.23 USD
+2025-05-30 09:59:03,467 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-30 09:59:03,482 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-30 09:59:08,206 - INFO - Successfully connected to MT5
+2025-05-30 09:59:08,212 - INFO - Account: 271233098
+2025-05-30 09:59:08,212 - INFO - Server: Exness-MT5Trial14
+2025-05-30 09:59:08,212 - INFO - Balance: 129.23 USD
+2025-05-30 17:13:30,174 - INFO - Disconnected from MT5
+2025-05-30 17:16:37,255 - INFO - Improved model v2 loaded from models/trained_models/improved_model_v2.pkl
+2025-05-30 17:16:37,257 - INFO - Attempting to connect to MT5 (Attempt 1/3)
+2025-05-30 17:16:37,275 - INFO - Successfully connected to MT5
+2025-05-30 17:16:37,275 - INFO - Account: 271233098
+2025-05-30 17:16:37,275 - INFO - Server: Exness-MT5Trial14
+2025-05-30 17:16:37,275 - INFO - Balance: 129.23 USD
+2025-05-30 17:17:35,383 - INFO - Disconnected from MT5
