@@ -2,15 +2,9 @@ import os
 from typing import Dict, Any
 
 # MT5 Account Configuration
-LOGIN = 271233098
-PASSWORD = "Sukabumi12@"
+LOGIN = 00000000
+PASSWORD = "pass"
 SERVER = "Exness-MT5Trial14"
-
-# LOGIN = 145789224
-# PASSWORD = "Sukabumi12@"
-# SERVER = "Exness-MT5Real17"
-
-
 
 # Trading Configuration
 TRADING_CONFIG = {
